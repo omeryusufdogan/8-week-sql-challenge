@@ -11,7 +11,7 @@ Special thanks to **Danny Ma** for creating these insightful case studies.
 | Week | Case Study | Topic | Status | Solution |
 | :--- | :--- | :--- | :--- | :--- |
 | **Week 1** | [Danny's Diner](https://8weeksqlchallenge.com/case-study-1/) | Core SQL, Rank, Aggregation | Completed | [View Solution](./Case%20Study%20%231%20-%20Danny's%20Diner/solution.sql) |
-| **Week 2** | [Pizza Runner](https://8weeksqlchallenge.com/case-study-2/) | Data Cleaning, String Manipulation | Coming Soon | - |
+| **Week 2** | [Pizza Runner](https://8weeksqlchallenge.com/case-study-2/) | Data Cleaning, String Manipulation | Coming Soon | [View Solution](./Case%20Study%20%232%20-%20Pizza%20Runner/solution.sql) |
 | **Week 3** | [Foodie-Fi](https://8weeksqlchallenge.com/case-study-3/) | Data Analysis, Subscription Metrics | Coming Soon | - |
 | **Week 4** | [Data Bank](https://8weeksqlchallenge.com/case-study-4/) | Data Storage, Allocation Strategy | Coming Soon | - |
 | **Week 5** | [Data Mart](https://8weeksqlchallenge.com/case-study-5/) | Data Cleansing, Sales Analysis | Coming Soon | - |
